@@ -10,19 +10,3 @@ node_modules/
 
 # Archivos y directorios de configuración de VS Code
 .vscode/
-
-# Archivos de copia de seguridad de SQL
-*.bak
-
-# Archivos de registro y respaldo de bases de datos SQL
-*.log
-*.ldf
-*.mdf
-*.ndf
-
-##Colores
-##D6C5B7
-##1D2173
-##D9CAC1
-##D96B43
-##8C423B
